@@ -1,4 +1,4 @@
-```md
+
 ![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00FFAA&height=250&section=header&text=Aditya%20Bhosale&fontSize=50&fontColor=00FFAA&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Computer%20Vision%20Engineer&descAlignY=60)
 
 <h1 align="center">🚀 Aditya Bhosale 🚀</h1>
